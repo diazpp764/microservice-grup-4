@@ -1,5 +1,6 @@
 package com.example.inventoryservice.service;
 
+import com.example.basedomains.dto.OrderEvent;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.kafka.annotation.KafkaListener;
